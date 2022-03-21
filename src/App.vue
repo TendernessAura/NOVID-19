@@ -313,7 +313,6 @@ body,
     overflow: hidden;
     &-left {
         width: 400px;
-        background-color: aquamarine;
         &-card {
             display: grid;
             grid-template-columns: auto auto auto;
@@ -346,7 +345,6 @@ body,
     }
     &-right {
         width: 400px;
-        background-color: yellow;
     }
 }
 </style>
